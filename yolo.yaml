@@ -1,0 +1,13 @@
+train: C:\car\boxPicture
+test: C:\car\boxPicture
+val: C:\car\boxPicture
+
+nc: 1
+
+names: ['1']
+
+
+
+
+
+
